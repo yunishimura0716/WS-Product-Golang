@@ -1,7 +1,11 @@
-# ws-product-golang
+## Work Sample for Product Role, Golang Variant
+
+[What is this?](https://github.com/EQWorks/work-samples#what-is-this)
 
 ## Problems
-- support counters by content selection and time, example counter Key `"sports:2020-01-08 22:01"`, Value `{views: 100, clicks: 4}`
-- create go routine to upload counters to mock store every 5 sec
-- global rate limit for stats handler
-- try to leverage Golang's `channels` and/or `sync`
+
+You should receive problems that can be solved using this repo as a starting point when you [apply for the job](https://apply.workable.com/eqworks/).
+
+## Notes on working through the problems
+
+Try to leverage Golang's `channels` and/or `sync`.
